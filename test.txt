@@ -1,8 +1,4 @@
 This is a test .
 This isn't a test file.
-<<<<<<< HEAD
-hhhhhh
-=======
-hhhhhh
->>>>>>> c7992c79f84c0467a352c00a10a1e5eae7f64e4d
+hhhhhhhhh
 
